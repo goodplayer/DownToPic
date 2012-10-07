@@ -1,0 +1,25 @@
+*[TODO LIST]*
+[done] TODO 12. 日志支持,出错信息显示
+TODO 11. ed2k协议支持
+TODO 10. BT协议支持
+TODO 9. 生成数据加密支持
+TODO 8. 生成文件大小自定义支持
+TODO 7. 生成png支持
+TODO 6. 生成jpg支持
+[done] TODO 5. 生成下载地址
+TODO 4. 支持ftp协议
+TODO 3. 支持https协议
+[done] TODO 2. 支持cookie
+[done] TODO 1. 删除功能
+
+[2012.9.14]
+Feature New. 下载指定文件支持断续下载
+Feature 1. 删除功能
+
+[2012.9.13]
+Feature New. 下载指定文件
+
+[2012.9.11]
+Feature 2. 支持cookie
+Feature 5. 生成下载地址
+Feature 12. 日志支持,出错信息显示
